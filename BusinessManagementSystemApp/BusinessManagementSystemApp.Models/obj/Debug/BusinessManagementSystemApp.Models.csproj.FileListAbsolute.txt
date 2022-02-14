@@ -28,3 +28,9 @@ E:\GitHub\Project_Learning\.Net\Small-Business-Management-Website\BusinessManage
 E:\GitHub\Project_Learning\.Net\Small-Business-Management-Website\BusinessManagementSystemApp\BusinessManagementSystemApp.Models\obj\Debug\BusinessManagementSystemApp.Models.csproj.CoreCompileInputs.cache
 E:\GitHub\Project_Learning\.Net\Small-Business-Management-Website\BusinessManagementSystemApp\BusinessManagementSystemApp.Models\obj\Debug\BusinessManagementSystemApp.Models.dll
 E:\GitHub\Project_Learning\.Net\Small-Business-Management-Website\BusinessManagementSystemApp\BusinessManagementSystemApp.Models\obj\Debug\BusinessManagementSystemApp.Models.pdb
+E:\GitHub\Assignment\BusinessManagementSystemApp\BusinessManagementSystemApp.Models\bin\Debug\BusinessManagementSystemApp.Models.dll
+E:\GitHub\Assignment\BusinessManagementSystemApp\BusinessManagementSystemApp.Models\bin\Debug\BusinessManagementSystemApp.Models.pdb
+E:\GitHub\Assignment\BusinessManagementSystemApp\BusinessManagementSystemApp.Models\obj\Debug\BusinessManagementSystemApp.Models.csprojAssemblyReference.cache
+E:\GitHub\Assignment\BusinessManagementSystemApp\BusinessManagementSystemApp.Models\obj\Debug\BusinessManagementSystemApp.Models.csproj.CoreCompileInputs.cache
+E:\GitHub\Assignment\BusinessManagementSystemApp\BusinessManagementSystemApp.Models\obj\Debug\BusinessManagementSystemApp.Models.dll
+E:\GitHub\Assignment\BusinessManagementSystemApp\BusinessManagementSystemApp.Models\obj\Debug\BusinessManagementSystemApp.Models.pdb
